@@ -1,23 +1,21 @@
-# Charles_HW_1
+Зробити і в Rewrite, і BreakPoint
 
-Сделать и в Rewrite, и в BreakPoint
+⁃ Підмінити name у Charles щоб у запиті пішло name які ви вписали в Postman, а повернулося те, яке ви підставили у Charles.
 
-⁃ Подменить name в Charles чтобы в запросе ушло name которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
+⁃ Підмінити body в Charles так щоб у запиті пішла salary, яку ви вписали в Postman, а в u_salary_1_5_year цифра повернулася менше оригінальної із запиту.
 
-⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
+⁃ Підмінити параметри запиту в Charles так, щоб у Postman прийшла відповідь де інше name, daily_food > weight із запиту, а daily_sleep < weight із запиту.
 
-⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
+⁃ Зробити через Charles так, щоб сервер повернув 500 код.
 
-⁃ Сделать через Charles так, чтобы сервер вернул 500 код.
+⁃ Зробити через Charles так, щоб сервер повернув 405 код.
 
-⁃ Сделать через Charles так, чтобы сервер вернул 405 код.
+⁃ Зробити через Charles так, щоб сервер повернув 405 помилку.
 
-⁃ Сделать через Charles так, чтобы сервер вернул 405 ошибку.
+⁃ Підмінити salary у request
 
-⁃ Подменить salary в request
+⁃ Підмінити (salary * 2) у response
 
-⁃ Подменить (salary * 2) в response
+⁃ Зробити через Charles так, щоб у Postman повернулася відповідь, в якій qa_salary_after_1.5_year перейменовано на qa_salary_after_1.5_month
 
-⁃ Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
-
-⁃ Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response
+⁃ Зробити так щоб qa_salary_after_3.5_years було менше qa_salary_after_12_months у response
